@@ -1,4 +1,3 @@
 # xmyweatherbot
 telegramweatherbot
-ляляляляляляяяяяяяя
 
